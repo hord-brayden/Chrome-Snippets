@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Unix Time Popup",
+  "version": "1.0",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "Show Unix Time Popup"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
