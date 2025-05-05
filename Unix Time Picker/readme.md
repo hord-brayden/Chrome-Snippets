@@ -2,6 +2,8 @@
 
 ### 🚀 How to Load it in Chrome:
 
+Save everything into this folder, and you'll find the folder in chrome through the extensions window and presto-chango you'll be swimming in unix time land!  
+
 1.	Open Chrome and navigate to:
  ```url
  chrome://extensions
